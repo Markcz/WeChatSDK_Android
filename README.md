@@ -1,4 +1,5 @@
 # WeChatSDK_Android
 
-## 微信SDK 
+## 来自微信SDK 
 > **包含分享支付
+> ** 可直接Run
